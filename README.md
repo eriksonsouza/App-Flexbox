@@ -1,2 +1,2 @@
-# Projeto Alurinha
- Este é um projeto do Alura aplicando elementos FlexBox
+# Projeto Flexbox
+ Este é um projeto  aplicando elementos FlexBox
